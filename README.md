@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanloctran
+- 👋 Hi, I’m @ttanlocc
 - 👀 I’m interested in AI, Mobile app programming, music.
 - 🌱 I’m currently learning Computer Science
 
