@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanloctran
-- 👀 I’m interested in AI, game programming, music.
-- 🌱 I’m currently learning Computer Ccience
+- 👀 I’m interested in AI, Mobile app programming, music.
+- 🌱 I’m currently learning Computer Science
 
 
 <!---
